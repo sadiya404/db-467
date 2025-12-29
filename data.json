@@ -2,5 +2,5 @@
   "herokuToken": "AA9w08r6m7zQ1CI5d9acKWg04X9u_gQu2rgOxjHgSCzQ_____wanalz2taFh",
   "mongoUrl": "mongodb+srv://lisa-md:lisa-md-56@sadiya-db.q5xdlpr.mongodb.net/?appName=sadiya-db",
   "pair_link": "https://lisa-md-pair.onrender.com/",
-  "zip": "https://eu-central.storage.cloudconvert.com/tasks/46bfb973-2b55-4fd4-8e76-4537e656633b/ASITHA-MD-V5.tar.gz?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=cloudconvert-production%2F20251229%2Ffra%2Fs3%2Faws4_request&X-Amz-Date=20251229T024310Z&X-Amz-Expires=86400&X-Amz-Signature=e84f49770da9ca0000578ddbff6c171c7e94843ea41a4b0fb79ab55bb1bb53f8&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22ASITHA-MD-V5.tar.gz%22&response-content-type=application%2Fgzip&x-id=GetObject"
+  "zip": "https://github.com/sadlite/db-467/raw/refs/heads/main/ASITHA-MD-V5.zip"
 }
